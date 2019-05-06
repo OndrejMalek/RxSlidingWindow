@@ -1,5 +1,5 @@
 # RxSlidingWindow
-Sliding overlapping window for RxJava written in kotlin and finite state automaton 
+ObservableTransformer like sliding overlapping window for RxJava written in kotlin and finite state automaton. 
 
 ## Usage
  see tests 
